@@ -1,9 +1,17 @@
 body {background-color:white} 
 h1 {
-    color:brown;
+    color:black;
     font-family: sans-serif;
     border: 3px solid red;
     padding: 20px;
+    background-color: salmon;
+    text-align: center;
+}
+h2 { 
+    color:darkolivegreen;
+    border: 2px dotted red;
+    padding: 10px;
+    background-color: azure;
 }
 p   {
     color:blueviolet;
