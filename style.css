@@ -1,0 +1,14 @@
+body {background-color:white} 
+h1 {
+    color:brown;
+    font-family: sans-serif;
+    border: 3px solid red;
+    padding: 20px;
+}
+p   {
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    padding: 10px;
+
+}
