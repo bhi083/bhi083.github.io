@@ -37,7 +37,7 @@ footer {
     color: white;
 }
 div {
-    background-image: linear-gradient(darkolivegreen, green);
+    background-image: linear-gradient(rgb(11, 48, 11), green);
     border: 5px solid black;
     padding: 5px;
     margin: 7px;
