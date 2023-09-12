@@ -29,3 +29,9 @@ p   {
     font-family: 'Times New Roman', Times, serif;
 
 }
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+}
