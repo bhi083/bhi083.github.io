@@ -62,3 +62,9 @@ footer {
     background-color: #04AA6D;
     color: white;
   } 
+.kuviot {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
