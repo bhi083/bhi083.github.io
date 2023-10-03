@@ -94,5 +94,9 @@ iframe {
 table, tr, th {
    margin-left:auto;
    margin-right:auto;
-   border: 1px solid black;
+   border: 2px solid black;
+   color:white
+}
+ul {
+    color:white;
 }
