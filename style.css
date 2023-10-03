@@ -75,8 +75,12 @@ footer {
   margin-right: auto;
   max-width:100%;
   border: 2px solid black;
-  box-shadow: 10px 10px black;
-  
+  box-shadow: 9px 9px black;
+}
+figcaption {
+    color:white;
+    text-align:center;
+    padding: 8px;   
 }
 iframe {
     display:block;
