@@ -51,6 +51,7 @@ footer {
     padding: 5px;
     margin: 7px;
     box-shadow: 8px 8px black;
+    text-align:center;
 }
 .topnav a {
     float: left;
@@ -90,7 +91,7 @@ iframe {
 }
 .iframe {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom:370px;
     padding-top: 35px;
     height: 0;
     overflow: hidden;
@@ -103,6 +104,7 @@ table, tr, th {
 }
 ul {
     color:white;
+    text-align:center;
 }
 .button-3 {
       appearance: none;
